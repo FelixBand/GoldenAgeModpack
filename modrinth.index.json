@@ -1,0 +1,166 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "1.0.0",
+  "name": "Golden Age Modpack",
+  "files": [
+    {
+      "path": "mods/!mixinbooter-10.6.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/%21mixinbooter-10.6.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3",
+        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd"
+      }
+    },
+    {
+      "path": "mods/BadMobs-1.12.2-1.1.40.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/2810/152/BadMobs-1.12.2-1.1.40.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "40c704f9e996fe1c33770d72e29fbb9a3c4f67b2",
+        "sha512": "213506f55be0c7896adac2fdb69c9665d84cba946a8e50b75b977ebcdf7126ba4dbad123ab6c88c43ab5c9305f7019dc507d677c3869e4b4f5763bd2bd2534b6"
+      }
+    },
+    {
+      "path": "mods/BetterTitleScreen-1.12.2-1.4b.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/2481/601/BetterTitleScreen-1.12.2-1.4b.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e4a5c3dbbafa4361c4e1d04b6fe6758498b4d33c",
+        "sha512": "274f24ca8d06fe022b5a0190d05c2cfbc02faa42d2c7ca4e08e741ea2afb971868651e9c66ba72667655f62263c4b2cab508e1b917a4838e389164290390e5fd"
+      }
+    },
+    {
+      "path": "mods/Configurable_Falls_V0.1.2-1.12.2.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4795/878/Configurable_Falls_V0.1.2-1.12.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "8447828bf645a6a8f5e18b3cba238b04a9aaa2e6",
+        "sha512": "6ab1bb7b32bb9b20361924dc8302b6b6098df2c3599c744591651df40677c58b4f8956a13467be9ad5cb051e33dd95968550225bce455e5cbf13d932bc671a19"
+      }
+    },
+    {
+      "path": "mods/CraftTweaker2-1.12-4.1.20.699.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5354/89/CraftTweaker2-1.12-4.1.20.699.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c3795166f8827222aa0d6e1b0c7aabc24ad1b614",
+        "sha512": "11f40fbae0ecd10d2cc88736af01ef06e9958dbf65d754ef90146f47613fb074da63f87adfad3c47e91298455b36f9c98019d7d7878f29107f598d62a8c9f11e"
+      }
+    },
+    {
+      "path": "mods/DamageTilt-1.12.2-0.1.0.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/3073/878/DamageTilt-1.12.2-0.1.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "10342a79efba57d29e0eaf2a6601a1a244514417",
+        "sha512": "46625ae2a7f180077e3ac54b958cd720f9dbef5ae3dd57f2a1718cf7bcf452f5cfd06476f447c562b1f634288f18e85621376ed9213ff95c21c8309e81be6de1"
+      }
+    },
+    {
+      "path": "mods/DontEvenAxe-1.12.2.004.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/3047/983/DontEvenAxe-1.12.2.004.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "9e561c1af4757ad8066df81a0b1558e3896afca2",
+        "sha512": "3b6ae360268176561b71eab6a0bb9e36cfe0bc63c128ca9e42054f13425e67ae3e1e308b5af7c146dc1f11f4aba25c30192a4198bb6782fbab2618fa401488b0"
+      }
+    },
+    {
+      "path": "mods/editmobdrops-1.12.2-1.4.3.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4403/481/editmobdrops-1.12.2-1.4.3.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "40ec245e2cc1c993a4b2c9a302b6ac340b78cc75",
+        "sha512": "a150a810d6dced4183fe16db3b534111e5ecbb2d38ee812961255c18e7e50308b9f9b1b601bba78be23f4c2fb13176aa40bd592394532fc465de1a2f22a7f3cb"
+      }
+    },
+    {
+      "path": "mods/modernbetaforge-1.12.2-1.7.2.2.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6785/220/modernbetaforge-1.12.2-1.7.2.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f611fbc55eb77d77447665cf1070c39ce46b8163",
+        "sha512": "e37a4fa91e12130dda4304a17a2fb5bd8b9ef60d136491bd99d7315879e8a29fed36a46e8a49195549f990fb09c5a6ed4c9a2ad6758093e41894272dfaf83e85"
+      }
+    },
+    {
+      "path": "mods/modification-of-critical-hit-1.12.2-forge-1.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/vkbVG2aJ/versions/CSXjo8pO/modification-of-critical-hit-1.12.2-forge-1.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f24c07b373b85c8e8c9200c4a3905c37892d3071",
+        "sha512": "cb2a7e2c61b0a029d3fd026ec1b092d0688c4489a8b29e78b3603c7d0baf20ac6e7d315b74aa1c7ba2b8b0c63a80652cb18e99f4381104fcbed2986ce560a9a5"
+      }
+    },
+    {
+      "path": "mods/nhpl-1.0.0.jar",
+      "downloads": [
+        "https://github.com/FelixBand/RetroHungerLegacy/releases/download/1.0.0/nhpl-1.0.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "72b8908295a9b289ea510c774d7f931efb7523ea",
+        "sha512": "fe3d2127e4e37bb7e4c2d67794ed497d166a376e2f686e079de499ffe848fc6d267f65461e5b010639324e4a978b1627cc7ddd1a436b0ebd875997760280a78e"
+      }
+    },
+    {
+      "path": "mods/NoAttackCooldown-1.12.2-1.0.0.0.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/3910/626/NoAttackCooldown-1.12.2-1.0.0.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "4fdcb93152aae7e85cfd93d3e37eab572e75f1cf",
+        "sha512": "16bdfc4f74b3a9ce31d77546cf1018345233b6a4fb1d00a07d2df84ab5e0a42d50fe3200da8ce87065e6f8ab00a3538b0ccd6c9051150d5a02f5ba6e5a3ab4b8"
+      }
+    },
+    {
+      "path": "mods/simplesweep_MC1.12.2_1.2.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/3297/800/simplesweep_MC1.12.2_1.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "4aaa6fae52059b76038deb8306ebee3f07276e3b",
+        "sha512": "7f7be5cc52b56cd62ca88ffd6da41211394318b42c0c47c154eef83174c77d49d2dea2ee6974d21e90a72167a2f942216139c76cd58ea06c7142c3d71acb61d2"
+      }
+    },
+    {
+      "path": "mods/Unexperienced-1.12.2-1.2.0b.jar",
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5140/238/Unexperienced-1.12.2-1.2.0b.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5f658a0b39e64253a4852529babd6275e0857e25",
+        "sha512": "433cee804daade0dc78ae07bb092a45e013b3c5aebe3c9b71a95fff895b2c84dd64c423b29df49b6f77ff04ad41664cad30f88fdac928ddfa046c8dedc8c2545"
+      }
+    }
+  ],
+  "dependencies": {
+    "forge": "14.23.5.2859",
+    "minecraft": "1.12.2"
+  }
+}
