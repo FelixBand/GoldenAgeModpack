@@ -18,7 +18,7 @@
     {
       "path": "mods/BadMobs-1.12.2-1.1.40.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/2810/152/BadMobs-1.12.2-1.1.40.jar"
+        "https://cdn.modrinth.com/data/2NEKo1EX/versions/c4u2CMoo/BadMobs-1.12.2-1.1.40.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -27,20 +27,9 @@
       }
     },
     {
-      "path": "mods/BetterTitleScreen-1.12.2-1.4b.jar",
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/2481/601/BetterTitleScreen-1.12.2-1.4b.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e4a5c3dbbafa4361c4e1d04b6fe6758498b4d33c",
-        "sha512": "274f24ca8d06fe022b5a0190d05c2cfbc02faa42d2c7ca4e08e741ea2afb971868651e9c66ba72667655f62263c4b2cab508e1b917a4838e389164290390e5fd"
-      }
-    },
-    {
       "path": "mods/Configurable_Falls_V0.1.2-1.12.2.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/4795/878/Configurable_Falls_V0.1.2-1.12.2.jar"
+        "https://cdn.modrinth.com/data/ZNhcuAvG/versions/l7uWwFub/Configurable_Falls_V0.1.2-1.12.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -51,40 +40,29 @@
     {
       "path": "mods/CraftTweaker2-1.12-4.1.20.699.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5354/89/CraftTweaker2-1.12-4.1.20.699.jar"
+        "https://cdn.modrinth.com/data/Xg35A4rS/versions/YRKoIQBv/CraftTweaker2-1.12-4.1.20.698.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c3795166f8827222aa0d6e1b0c7aabc24ad1b614",
-        "sha512": "11f40fbae0ecd10d2cc88736af01ef06e9958dbf65d754ef90146f47613fb074da63f87adfad3c47e91298455b36f9c98019d7d7878f29107f598d62a8c9f11e"
-      }
-    },
-    {
-      "path": "mods/DamageTilt-1.12.2-0.1.0.jar",
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/3073/878/DamageTilt-1.12.2-0.1.0.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "10342a79efba57d29e0eaf2a6601a1a244514417",
-        "sha512": "46625ae2a7f180077e3ac54b958cd720f9dbef5ae3dd57f2a1718cf7bcf452f5cfd06476f447c562b1f634288f18e85621376ed9213ff95c21c8309e81be6de1"
+        "sha1": "14f7c77c33cb231896dc7b1f44602f70e42bcf98",
+        "sha512": "06d7fbf5de5b5793174c4a1d8e3d2440611db2bd7d77f95dd12ad5fc6540c17d45b0ce1c8b72c5abfc26a9bd68a21df8582d4360394bb4cb4ae4240212a0f748"
       }
     },
     {
       "path": "mods/DontEvenAxe-1.12.2.004.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/3047/983/DontEvenAxe-1.12.2.004.jar"
+        "https://github.com/FelixBand/Don-t-Even-Axe/releases/download/v1/DontEvenAxe-1.12.2.004.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9e561c1af4757ad8066df81a0b1558e3896afca2",
-        "sha512": "3b6ae360268176561b71eab6a0bb9e36cfe0bc63c128ca9e42054f13425e67ae3e1e308b5af7c146dc1f11f4aba25c30192a4198bb6782fbab2618fa401488b0"
+        "sha1": "b4ac61e8876811b19679a844adf9f2443b3bd214",
+        "sha512": "357b2c89261d413fefddc155f2c86289f9eea441bb4ca6860cb90240b55768f9ddc2a5dae44b2bf3813d076d06427117c788276d720e5421f4e465a09e50d164"
       }
     },
     {
       "path": "mods/editmobdrops-1.12.2-1.4.3.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/4403/481/editmobdrops-1.12.2-1.4.3.jar"
+        "https://cdn.modrinth.com/data/CE2Pi3IJ/versions/7jcuE4jD/editmobdrops-1.12.2-1.4.3.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -95,7 +73,7 @@
     {
       "path": "mods/modernbetaforge-1.12.2-1.7.2.2.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6785/220/modernbetaforge-1.12.2-1.7.2.2.jar"
+        "https://cdn.modrinth.com/data/1tRsFlQO/versions/qr5ujcv5/modernbetaforge-1.12.2-1.7.2.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -126,20 +104,20 @@
       }
     },
     {
-      "path": "mods/NoAttackCooldown-1.12.2-1.0.0.0.jar",
+      "path": "mods/SwordBlockingCombat-v1.2.3-1.12.2.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/3910/626/NoAttackCooldown-1.12.2-1.0.0.0.jar"
+        "https://cdn.modrinth.com/data/U5I04KQ6/versions/v1.2.3/SwordBlockingCombat-v1.2.3-1.12.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "4fdcb93152aae7e85cfd93d3e37eab572e75f1cf",
-        "sha512": "16bdfc4f74b3a9ce31d77546cf1018345233b6a4fb1d00a07d2df84ab5e0a42d50fe3200da8ce87065e6f8ab00a3538b0ccd6c9051150d5a02f5ba6e5a3ab4b8"
+        "sha1": "937bedd30b618db9c7c646b4db6f3e8ed857fdd5",
+        "sha512": "bda2aae0a46240d1464d84260ac428f1d94badc60539a8d5bd322c6b8674c64912b546cb601885a8aa60ecee07ceb25f9c2e936e8498a300589f68ed58e9fc9e"
       }
     },
     {
       "path": "mods/simplesweep_MC1.12.2_1.2.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/3297/800/simplesweep_MC1.12.2_1.2.jar"
+        "https://github.com/J-Dill/SimpleSweep/releases/download/v1.2-1.12.2/simplesweep_MC1.12.2_1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -150,12 +128,12 @@
     {
       "path": "mods/Unexperienced-1.12.2-1.2.0b.jar",
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5140/238/Unexperienced-1.12.2-1.2.0b.jar"
+        "https://github.com/FelixBand/Unexperienced/releases/download/v1/Unexperienced-1.12.2-1.2.0b.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5f658a0b39e64253a4852529babd6275e0857e25",
-        "sha512": "433cee804daade0dc78ae07bb092a45e013b3c5aebe3c9b71a95fff895b2c84dd64c423b29df49b6f77ff04ad41664cad30f88fdac928ddfa046c8dedc8c2545"
+        "sha1": "d64092a988da6780d772a87e7cd8e8c3555c3103",
+        "sha512": "30786b1435471b2e8fa13c4bbf8ec6dda76e72cf9ad4c596181e41d2be42198913936a79ebd6fe9b50f8d4e679ce6778dc5bd021d40c30f15dee1e3da61092f0"
       }
     }
   ],
