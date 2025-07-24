@@ -1,0 +1,1 @@
+zip -r "Golden Age Modpack.mrpack" modrinth.index.json overrides
