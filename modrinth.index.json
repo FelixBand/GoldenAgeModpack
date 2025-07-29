@@ -135,6 +135,17 @@
         "sha1": "d64092a988da6780d772a87e7cd8e8c3555c3103",
         "sha512": "30786b1435471b2e8fa13c4bbf8ec6dda76e72cf9ad4c596181e41d2be42198913936a79ebd6fe9b50f8d4e679ce6778dc5bd021d40c30f15dee1e3da61092f0"
       }
+    },
+    {
+      "path": "mods/StackUp-0.2.5.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/sBay5WBJ/versions/0.2.5/StackUp-0.2.5.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6c1a76cfc1d867504ffa6580f6513e93ffa4d697",
+        "sha512": "5ccd9102a4d8abd54bda108271c5d3a72c1685244856992bee5dc89f7b9ff7b9c163e8e5d602f6d6e9bef4428773453c7167f89723bfa403c27e14e69ef5a886"
+      }
     }
   ],
   "dependencies": {
