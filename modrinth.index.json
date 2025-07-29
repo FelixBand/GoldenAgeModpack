@@ -146,6 +146,17 @@
         "sha1": "6c1a76cfc1d867504ffa6580f6513e93ffa4d697",
         "sha512": "5ccd9102a4d8abd54bda108271c5d3a72c1685244856992bee5dc89f7b9ff7b9c163e8e5d602f6d6e9bef4428773453c7167f89723bfa403c27e14e69ef5a886"
       }
+    },
+    {
+      "path": "mods/DamageTilt-1.12.2-0.1.0.jar",
+      "downloads": [
+        "https://github.com/Charles445/DamageTilt/releases/download/v0.1.1-3/DamageTilt-1.12.2-0.1.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "10342a79efba57d29e0eaf2a6601a1a244514417",
+        "sha512": "46625ae2a7f180077e3ac54b958cd720f9dbef5ae3dd57f2a1718cf7bcf452f5cfd06476f447c562b1f634288f18e85621376ed9213ff95c21c8309e81be6de1"
+      }
     }
   ],
   "dependencies": {
