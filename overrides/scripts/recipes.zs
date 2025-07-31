@@ -2,6 +2,7 @@
 
 recipes.remove(<minecraft:enchanting_table>);
 recipes.remove(<minecraft:anvil>);
+recipes.remove(<minecraft:shield>);
 
 recipes.remove(<minecraft:bed:*>); // asterisk means ALL color variations.
 recipes.remove(<minecraft:planks:*>); // asterisk means ALL wood variations.
