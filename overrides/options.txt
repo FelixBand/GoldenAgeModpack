@@ -1,2 +1,3 @@
 resourcePacks:["Beta"]
 autoJump:false
+gamma:-0.2
