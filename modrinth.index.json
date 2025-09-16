@@ -157,6 +157,17 @@
         "sha1": "10342a79efba57d29e0eaf2a6601a1a244514417",
         "sha512": "46625ae2a7f180077e3ac54b958cd720f9dbef5ae3dd57f2a1718cf7bcf452f5cfd06476f447c562b1f634288f18e85621376ed9213ff95c21c8309e81be6de1"
       }
+    },
+    {
+      "path": "mods/lan-properties_forge-1.0.0+1.12-1.12.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/deYSo63V/versions/GpCuAztt/lan-properties_forge-1.0.0%2B1.12-1.12.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "bd89981e022073e2d7343a7031603ad7e2c57ffd",
+        "sha512": "c54377e33e90e1d75dc8296af0cddb8b8d1b511364dd14adfbaef545d79babb160f185ae713d127465cd65db1c74e4d418f097096170caa0d6ba214ae5ce0e15"
+      }
     }
   ],
   "dependencies": {
