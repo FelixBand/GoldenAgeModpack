@@ -1,0 +1,106 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 79
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 08bd8704-0110-40d2-a382-4b1d64e344441778760192678
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 161
+  action = deep_customization_element:title_screen_branding
+  actionid = 475a0352-3ad3-40f1-b76b-e82b120bd2cb1778760192685
+  y = 188
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 198
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = f5fbe498-0371-417d-bd2e-5d24d3c493391778760192685
+  y = 220
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 316
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = baab43fb-5998-4ab9-ae80-d092455fd8c61778760192685
+  y = 160
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 76
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 99be61cb-8b35-4f34-a5fb-a52d31665cb61778760192686
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = e6a0d351-45bf-4aa7-bb89-2d62f2aa3b5a1778760192686
+  y = 0
+  height = 30
+}
+
+customization {
+  advanced_height = {"placeholder":"guiheight"}
+  path = dirtbackground.png
+  orientation = top-left
+  x = 0
+  width = 50
+  actionid = 03796dd5-77b3-4ece-8b9a-464eb8e90edc1778760605708
+  action = addtexture
+  y = 2
+  advanced_width = {"placeholder":"guiwidth"}
+  height = 50
+}
+

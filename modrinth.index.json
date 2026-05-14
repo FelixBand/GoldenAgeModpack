@@ -71,14 +71,14 @@
       }
     },
     {
-      "path": "mods/modernbetaforge-1.12.2-1.7.2.2.jar",
+      "path": "mods/modernbetaforge-1.12.2-1.9.4.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/1tRsFlQO/versions/qr5ujcv5/modernbetaforge-1.12.2-1.7.2.2.jar"
+        "https://cdn.modrinth.com/data/1tRsFlQO/versions/GfGgDVSW/modernbetaforge-1.12.2-1.9.4.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f611fbc55eb77d77447665cf1070c39ce46b8163",
-        "sha512": "e37a4fa91e12130dda4304a17a2fb5bd8b9ef60d136491bd99d7315879e8a29fed36a46e8a49195549f990fb09c5a6ed4c9a2ad6758093e41894272dfaf83e85"
+        "sha1": "fde059fce63060f22e7cbe63a1d799e983237a0b",
+        "sha512": "460b71feeceedf87be57a5ccea31990395a7c93c28f7f2fb11bec65f2860c682450f929456787d21e5ad462f9063e8cf27a5fd93e317bc0bcfb5d5eb4f25079b"
       }
     },
     {
@@ -200,6 +200,28 @@
       "hashes": {
         "sha1": "c1db46e0da9caea15f4b638d4f1d5de555a59920",
         "sha512": "3607e6bdd2aa6dca18b5590752c25906801f4fd40300da4f5a019e48b30cde4fe599a7390174775d150fd85317815facb7db6ce3547d98fdec4744d06106565f"
+      }
+    },
+    {
+      "path": "mods/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/Nmo9ggyx/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c1db46e0da9caea15f4b638d4f1d5de555a59920",
+        "sha512": "3607e6bdd2aa6dca18b5590752c25906801f4fd40300da4f5a019e48b30cde4fe599a7390174775d150fd85317815facb7db6ce3547d98fdec4744d06106565f"
+      }
+    },
+    {
+      "path": "mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VCIrxpB6/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b85302e855530f799697b2850e70293111f0cdbe",
+        "sha512": "a1be989a0f36165c28a40f5a41f71446164ab48c7ccf1279a39f692a266b2eb2fcafebd5bc648cff783b1443c445d13eed640f1777dafe8e35a6bb7bdf5b6983"
       }
     }
   ],
