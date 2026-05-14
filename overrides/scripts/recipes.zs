@@ -6,6 +6,7 @@ recipes.remove(<minecraft:shield>);
 recipes.remove(<minecraft:glass_pane>);
 recipes.remove(<minecraft:stained_glass:*>);
 recipes.remove(<minecraft:concrete_powder:*>);
+recipes.remove(<minecraft:dirt:1>);
 
 
 recipes.remove(<minecraft:bed:*>); // asterisk means ALL color variations.
