@@ -170,39 +170,6 @@
       }
     },
     {
-      "path": "mods/+Fugue-0.23.5.jar",
-      "downloads": [
-        "https://github.com/CleanroomMC/Fugue/releases/download/0.23.5/+Fugue-0.23.5.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "0a25f08ae11a123d6e941d559375f30bcec17224",
-        "sha512": "d09d5176c27bd35572aa8bec2f6020364d4b702aaa4340169d7310a72837ea5989cb0e091d3aafc743c261b31149057f994026b42b8e3809b29c5d58c4853300"
-      }
-    },
-    {
-      "path": "mods/improved-relauncher-0.3.8.jar",
-      "downloads": [
-        "https://github.com/Bruv-Network/Improved-Cleanroom-Relauncher/releases/download/0.3.8/improved-relauncher-0.3.8.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "91876176e33c24c68ce187e376002a2749b3a239",
-        "sha512": "bd198791cde656f6eb9a20baa76f570aaf37a3e2f28ed8d6a6c2ff898f8bf8d2138d3c93fcaf1e844765bc00e5dd6509a78878b67db1076dc7789e1702cb48ae"
-      }
-    },
-    {
-      "path": "mods/beta-graphics.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/ayQTAhBV/versions/BiIw3jMb/beta-graphics.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "c1db46e0da9caea15f4b638d4f1d5de555a59920",
-        "sha512": "3607e6bdd2aa6dca18b5590752c25906801f4fd40300da4f5a019e48b30cde4fe599a7390174775d150fd85317815facb7db6ce3547d98fdec4744d06106565f"
-      }
-    },
-    {
       "path": "mods/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/J81TRJWm/versions/Nmo9ggyx/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
