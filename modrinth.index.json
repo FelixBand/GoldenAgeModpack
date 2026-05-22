@@ -128,12 +128,12 @@
     {
       "path": "mods/Unexperienced-1.12.2-1.2.0b.jar",
       "downloads": [
-        "https://github.com/FelixBand/Unexperienced/releases/download/v1/Unexperienced-1.12.2-1.2.0b.jar"
+        "https://cdn.modrinth.com/data/Y0iFTQ9H/versions/3tCx7PG6/Unexperienced-1.12.2-1.2.0b.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d64092a988da6780d772a87e7cd8e8c3555c3103",
-        "sha512": "30786b1435471b2e8fa13c4bbf8ec6dda76e72cf9ad4c596181e41d2be42198913936a79ebd6fe9b50f8d4e679ce6778dc5bd021d40c30f15dee1e3da61092f0"
+        "sha1": "5f658a0b39e64253a4852529babd6275e0857e25",
+        "sha512": "433cee804daade0dc78ae07bb092a45e013b3c5aebe3c9b71a95fff895b2c84dd64c423b29df49b6f77ff04ad41664cad30f88fdac928ddfa046c8dedc8c2545"
       }
     },
     {
