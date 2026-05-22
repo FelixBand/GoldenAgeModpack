@@ -22,3 +22,18 @@ recipes.addShaped(<minecraft:bed:14>,[ // 14 = red
 ]);
 
 recipes.addShapeless("all2oak", <minecraft:planks:0> * 4, [<minecraft:log:*>]); // planks:0 = oak planks, log:* = any log
+
+recipes.remove(<minecraft:book>);
+recipes.remove(<minecraft:fence:0>);
+
+recipes.addShaped(<minecraft:book>, [
+    [<minecraft:paper>, null, null],
+    [<minecraft:paper>, null, null],
+    [<minecraft:paper>, null, null]
+]);
+
+recipes.addShaped(<minecraft:fence:0> * 2, [
+    [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
+    [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
+    [null, null, null]
+]);
