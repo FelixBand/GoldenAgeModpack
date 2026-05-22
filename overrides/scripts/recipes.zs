@@ -31,9 +31,24 @@ recipes.addShaped(<minecraft:book>, [
     [<minecraft:paper>, null, null],
     [<minecraft:paper>, null, null]
 ]);
+recipes.addShaped(<minecraft:book>, [
+    [null, <minecraft:paper>, null],
+    [null, <minecraft:paper>, null],
+    [null, <minecraft:paper>, null]
+]);
+recipes.addShaped(<minecraft:book>, [
+    [null, null, <minecraft:paper>],
+    [null, null, <minecraft:paper>],
+    [null, null, <minecraft:paper>]
+]);
 
 recipes.addShaped(<minecraft:fence:0> * 2, [
     [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
     [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
     [null, null, null]
+]);
+recipes.addShaped(<minecraft:fence:0> * 2, [
+    [null, null, null]
+    [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
+    [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
 ]);
