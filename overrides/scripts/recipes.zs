@@ -25,6 +25,7 @@ recipes.addShapeless("all2oak", <minecraft:planks:0> * 4, [<minecraft:log:*>]); 
 
 recipes.remove(<minecraft:book>);
 recipes.remove(<minecraft:fence:0>);
+recipes.remove(<minecraft:fence_gate:0>);
 
 recipes.addShaped(<minecraft:book>, [
     [<minecraft:paper>, null, null],
