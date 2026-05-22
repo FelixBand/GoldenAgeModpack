@@ -49,7 +49,7 @@ recipes.addShaped(<minecraft:fence:0> * 2, [
     [null, null, null]
 ]);
 recipes.addShaped(<minecraft:fence:0> * 2, [
-    [null, null, null]
+    [null, null, null],
     [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
     [<minecraft:stick>, <minecraft:stick>, <minecraft:stick>],
 ]);
