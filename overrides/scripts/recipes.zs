@@ -20,6 +20,11 @@ recipes.addShaped(<minecraft:bed:14>,[ // 14 = red
     [wool,wool,wool],
     [plnx,plnx,plnx]
 ]);
+recipes.addShaped(<minecraft:bed:14>,[ // 14 = red
+    [wool,wool,wool],
+    [plnx,plnx,plnx],
+    [null,null,null]
+]);
 
 recipes.addShapeless("all2oak", <minecraft:planks:0> * 4, [<minecraft:log:*>]); // planks:0 = oak planks, log:* = any log
 
